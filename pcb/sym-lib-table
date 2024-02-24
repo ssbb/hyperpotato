@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hyperpotato")(type "KiCad")(uri "/Users/ssbb/Workspace/hyperpotato/lib/hyperpotato.kicad_sym")(options "")(descr ""))
+)

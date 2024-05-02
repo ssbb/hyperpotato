@@ -33,3 +33,5 @@ fp-info-cache
 *.zip
 
 ~*
+
+/test_plate
